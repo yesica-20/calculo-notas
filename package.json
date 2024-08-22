@@ -1,0 +1,23 @@
+{
+  "name": "notas-estudiante",
+  "version": "1.0.0",
+  "description": "calculo de notas finales",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yesica Rodriguez <ymaryori958@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yesica-20/calculo-notas.git"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "fast-csv": "^5.0.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
