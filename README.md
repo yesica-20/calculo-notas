@@ -1,4 +1,4 @@
-# Notas Estudiante
+# Student notes
 
 calculates the final grade based on the grades obtained in the midterms and saves it in sqlite and csv.
 
